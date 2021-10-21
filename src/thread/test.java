@@ -12,6 +12,7 @@ public class test {
         for (int i=0;i<100;i++)
         {
             System.out.println("hot-fix");
+            System.out.println("hot-fix test");
         }
     }
 }
